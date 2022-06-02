@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348860981409",
+    "project_id": "login-fe24e",
+    "storage_bucket": "login-fe24e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348860981409:android:0ebe52a6afee007c1fd0e0",
+        "android_client_info": {
+          "package_name": "com.example.viata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348860981409-2bl0vbui8mv4af30klr89surn66jg59e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGw2L6NC1t42-t90bD-i-75VqYwxeYt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348860981409-2bl0vbui8mv4af30klr89surn66jg59e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
