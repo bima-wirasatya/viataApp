@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "348860981409",
-    "project_id": "login-fe24e",
-    "storage_bucket": "login-fe24e.appspot.com"
+    "project_number": "60410886502",
+    "project_id": "newlog-952b3",
+    "storage_bucket": "newlog-952b3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:348860981409:android:0ebe52a6afee007c1fd0e0",
+        "mobilesdk_app_id": "1:60410886502:android:ea30cf807e4631814330a7",
         "android_client_info": {
           "package_name": "com.example.viata"
         }
       },
       "oauth_client": [
         {
-          "client_id": "348860981409-2bl0vbui8mv4af30klr89surn66jg59e.apps.googleusercontent.com",
+          "client_id": "60410886502-045ilapdpa6et9udcka3dm77ftd0tsak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viata",
+            "certificate_hash": "616fe50d451c7c14dd7594cb04f22a34e63ce6c5"
+          }
+        },
+        {
+          "client_id": "60410886502-sdvft98ld0qajka71gogdvdnoerr0lj9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAIGw2L6NC1t42-t90bD-i-75VqYwxeYt0"
+          "current_key": "AIzaSyC3BFAL-rCEGJdUKCOEzdIsRGwiRhq0c6k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "348860981409-2bl0vbui8mv4af30klr89surn66jg59e.apps.googleusercontent.com",
+              "client_id": "60410886502-sdvft98ld0qajka71gogdvdnoerr0lj9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
